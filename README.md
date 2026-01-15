@@ -47,7 +47,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-biblioteca.git
+git clone https://github.com/smartinezpelaez/sistema-biblioteca.git
 cd sistema-biblioteca
 ```
 
