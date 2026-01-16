@@ -322,9 +322,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [smartinezpelaez@tu-usuario](https://github.com/smartinezpelaez)
-- LinkedIn: [smartinezpelaez](https://linkedin.com/in/smartinezpelaez)
-- Email: smartinezpelaez@ejemplo.com
+- GitHub: [https://github.com/smartinezpelaez]
+- LinkedIn: [https://www.linkedin.com/in/steven-martinez-pelaez-1a7a6932/]
+- Email: smartinezpelaez@gmail.com
 
 ## 🙏 Agradecimientos
 
