@@ -322,9 +322,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/smartinezpelaez)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/smartinezpelaez)
-- Email: tu.email@ejemplo.com
+- GitHub: [smartinezpelaez@tu-usuario](https://github.com/smartinezpelaez)
+- LinkedIn: [smartinezpelaez](https://linkedin.com/in/smartinezpelaez)
+- Email: smartinezpelaez@ejemplo.com
 
 ## 🙏 Agradecimientos
 
@@ -336,4 +336,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub
 
-**Última actualización**: Enero 2025
+**Última actualización**: Enero 2026
